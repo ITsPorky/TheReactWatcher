@@ -18,7 +18,19 @@
       },
       "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/8.0.13": {
         "runtime": {
+          "Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1325.6609"
+          },
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1325.6609"
+          },
           "System.Collections.Immutable.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1325.6609"
+          },
+          "System.Collections.NonGeneric.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.1325.6609"
           },
@@ -31,6 +43,10 @@
             "fileVersion": "8.0.1325.6609"
           },
           "System.Console.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1325.6609"
+          },
+          "System.Diagnostics.Process.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.1325.6609"
           },

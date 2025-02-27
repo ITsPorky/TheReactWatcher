@@ -12,6 +12,7 @@ G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Release\net8.
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Release\net8.0\win-x64\TheReactWatcher.pdb
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Release\net8.0\win-x64\TheReactWatcher.genruntimeconfig.cache
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Release\net8.0\win-x64\ref\TheReactWatcher.dll
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Release\net8.0\win-x64\TheReactWatcher.sourcelink.json
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
 G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll

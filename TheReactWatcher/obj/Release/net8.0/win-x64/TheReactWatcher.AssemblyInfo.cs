@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheReactWatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff830b6cc9b4e73436f98808facc99284995b64")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheReactWatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheReactWatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X4hlueNOepg=",
+  "dgSpecHash": "+fnaCuaM4gs=",
   "success": true,
   "projectFilePath": "G:\\Projects\\ASPDOTNET-Projects\\TheReactWatcher\\TheReactWatcher\\TheReactWatcher.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wcwal\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
