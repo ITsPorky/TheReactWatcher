@@ -1,0 +1,14 @@
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Debug\net8.0\TheReactWatcher.exe
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Debug\net8.0\TheReactWatcher.deps.json
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Debug\net8.0\TheReactWatcher.runtimeconfig.json
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Debug\net8.0\TheReactWatcher.dll
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Debug\net8.0\TheReactWatcher.pdb
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.AssemblyInfoInputs.cache
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.AssemblyInfo.cs
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.csproj.CoreCompileInputs.cache
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.dll
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\refint\TheReactWatcher.dll
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.pdb
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\TheReactWatcher.genruntimeconfig.cache
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\obj\Debug\net8.0\ref\TheReactWatcher.dll

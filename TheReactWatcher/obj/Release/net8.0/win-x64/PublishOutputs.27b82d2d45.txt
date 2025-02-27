@@ -1,0 +1,2 @@
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\win-x64\publish\TheReactWatcher.pdb
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\win-x64\publish\TheReactWatcher.exe

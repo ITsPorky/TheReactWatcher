@@ -1,0 +1,5 @@
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\publish\TheReactWatcher.exe
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\publish\TheReactWatcher.dll
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\publish\TheReactWatcher.deps.json
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\publish\TheReactWatcher.runtimeconfig.json
+G:\Projects\ASPDOTNET-Projects\TheReactWatcher\TheReactWatcher\bin\Release\net8.0\publish\TheReactWatcher.pdb
